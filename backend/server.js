@@ -1,6 +1,8 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
+const errorHandler = require("./middlewares/errorHandler");
+
 require("dotenv").config();
 
 const app = express();
@@ -19,6 +21,9 @@ mongoose.connect(process.env.MONGO_URI, {
 
 // Routes
 app.use("/api/foods", require("./routes/foods"));
+
+// Gestion des erreurs
+app.use(errorHandler)
 
 // Lancement du serveur
 const PORT = process.env.PORT || 5000;

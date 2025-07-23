@@ -1,0 +1,171 @@
+[
+    {
+      "name": "Avocat",
+      "category": "Légume",
+      "fodmap": { "sorbitol": "modéré" },
+      "safeQuantity": "30g",
+      "notes": "Modéré au-delà de 30g",
+      "tags": ["cru"]
+    },
+    {
+      "name": "Pomme",
+      "category": "Fruit",
+      "fodmap": { "fructose": "élevé", "sorbitol": "élevé" },
+      "safeQuantity": "inconnu",
+      "notes": "À éviter pendant la phase stricte",
+      "tags": ["cru"]
+    },
+    {
+      "name": "Riz complet",
+      "category": "Céréale",
+      "fodmap": {},
+      "safeQuantity": "illimité",
+      "notes": "Faible en FODMAP",
+      "tags": ["gluten-free"]
+    },
+    {
+      "name": "Yaourt au lait de vache",
+      "category": "Laitage",
+      "fodmap": { "lactose": "élevé" },
+      "safeQuantity": "0g",
+      "notes": "Éviter pour les personnes intolérantes",
+      "tags": ["lait"]
+    },
+    {
+      "name": "Courgette",
+      "category": "Légume",
+      "fodmap": {},
+      "safeQuantity": "75g",
+      "notes": "Faible en FODMAP",
+      "tags": []
+    },
+    {
+      "name": "Poireau (partie verte)",
+      "category": "Légume",
+      "fodmap": {},
+      "safeQuantity": "75g",
+      "notes": "Faible en FODMAP",
+      "tags": ["cuite"]
+    },
+    {
+      "name": "Poireau (partie blanche)",
+      "category": "Légume",
+      "fodmap": { "fructanes": "élevé" },
+      "safeQuantity": "0g",
+      "notes": "Éviter",
+      "tags": []
+    },
+    {
+      "name": "Pois chiches",
+      "category": "Légumineuse",
+      "fodmap": { "GOS": "élevé", "fructanes": "modéré" },
+      "safeQuantity": "42g (en conserve)",
+      "notes": "Faible à modéré selon cuisson",
+      "tags": ["en conserve"]
+    },
+    {
+      "name": "Chou-fleur",
+      "category": "Légume",
+      "fodmap": { "mannitol": "élevé" },
+      "safeQuantity": "0g",
+      "notes": "Éviter",
+      "tags": []
+    },
+    {
+      "name": "Carotte",
+      "category": "Légume",
+      "fodmap": {},
+      "safeQuantity": "illimité",
+      "notes": "Faible en FODMAP",
+      "tags": []
+    },
+    {
+      "name": "Tomate",
+      "category": "Fruit/légume",
+      "fodmap": {},
+      "safeQuantity": "illimité",
+      "notes": "Faible en FODMAP",
+      "tags": ["cru"]
+    },
+    {
+      "name": "Champignons de Paris",
+      "category": "Légume",
+      "fodmap": { "mannitol": "élevé" },
+      "safeQuantity": "35g",
+      "notes": "Élevé au-delà",
+      "tags": []
+    },
+    {
+      "name": "Lentilles corail (cuites)",
+      "category": "Légumineuse",
+      "fodmap": { "GOS": "modéré" },
+      "safeQuantity": "46g",
+      "notes": "Modéré au-delà",
+      "tags": []
+    },
+    {
+      "name": "Oignon",
+      "category": "Légume",
+      "fodmap": { "fructanes": "élevé" },
+      "safeQuantity": "0g",
+      "notes": "Éviter pendant la phase stricte",
+      "tags": []
+    },
+    {
+      "name": "Banane mûre",
+      "category": "Fruit",
+      "fodmap": { "fructose": "modéré" },
+      "safeQuantity": "100g",
+      "notes": "Modéré à forte maturité",
+      "tags": []
+    },
+    {
+      "name": "Banane peu mûre",
+      "category": "Fruit",
+      "fodmap": {},
+      "safeQuantity": "illimité",
+      "notes": "Faible en FODMAP",
+      "tags": []
+    },
+    {
+      "name": "Mangue",
+      "category": "Fruit",
+      "fodmap": { "fructose": "élevé" },
+      "safeQuantity": "0g",
+      "notes": "Éviter",
+      "tags": []
+    },
+    {
+      "name": "Pain sans gluten",
+      "category": "Céréale",
+      "fodmap": {},
+      "safeQuantity": "selon marque",
+      "notes": "Généralement faible",
+      "tags": ["gluten-free"]
+    },
+    {
+      "name": "Lait d’amande (sans additifs)",
+      "category": "Boisson",
+      "fodmap": {},
+      "safeQuantity": "250ml",
+      "notes": "Faible en FODMAP",
+      "tags": ["végétal"]
+    },
+    {
+      "name": "Lait de soja (à base de fèves)",
+      "category": "Boisson",
+      "fodmap": { "GOS": "élevé" },
+      "safeQuantity": "0g",
+      "notes": "Éviter sauf version à base de protéines",
+      "tags": ["végétal"]
+    },
+    {
+      "name": "Lait de soja (à base de protéines)",
+      "category": "Boisson",
+      "fodmap": {},
+      "safeQuantity": "250ml",
+      "notes": "Faible en FODMAP",
+      "tags": ["végétal"]
+    }
+  ]
+  
